@@ -1,0 +1,14 @@
+
+<form id="39816908">
+<property name="name" value="selectTask-taskform.form"/>
+<property name="displayMode" value="default"/>
+<property name="status" value="0"/>
+<field position="0" name="p_adhocTaskName" type="InputText" id="1665430426">
+<property name="fieldRequired" value="false"/>
+<property name="label" value="quot;enquot;,quot;out_taskName (p_adhocTaskName)quot;"/>
+<property name="readonly" value="false"/>
+<property name="outputBinding" value="out_taskName"/>
+<property name="fieldClass" value="java.lang.String"/>
+</field>
+<dataHolder inputId="" name="#FF54A7" type="basicType" outId="out_taskName" value="java.lang.String" id="p_adhocTaskName"/>
+</form>
