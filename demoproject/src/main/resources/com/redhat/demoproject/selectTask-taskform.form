@@ -4,9 +4,14 @@
 <property name="displayMode" value="default"/>
 <property name="status" value="0"/>
 <field position="0" name="p_adhocTaskName" type="InputText" id="1665430426">
-<property name="fieldRequired" value="false"/>
-<property name="label" value="quot;enquot;,quot;out_taskName (p_adhocTaskName)quot;"/>
+<property name="fieldRequired" value="true"/>
+<property name="label" value="quot;SSClassquot;,quot;quot;quot;SSStylequot;,quot;quot;quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;Select Ad Hoc Taskquot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="errorMessage" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
+<property name="title" value="quot;caquot;,quot;quot;quot;dequot;,quot;quot;quot;enquot;,quot;quot;quot;esquot;,quot;quot;quot;frquot;,quot;quot;quot;jaquot;,quot;quot;quot;ptquot;,quot;quot;quot;zhquot;,quot;quot;"/>
 <property name="readonly" value="false"/>
+<property name="rangeFormula" value="{Task A,Task A;Task B,Task B,Complete,All Done}"/>
+<property name="isHTML" value="false"/>
+<property name="hideContent" value="false"/>
 <property name="outputBinding" value="out_taskName"/>
 <property name="fieldClass" value="java.lang.String"/>
 </field>
