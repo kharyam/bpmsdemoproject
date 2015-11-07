@@ -1,4 +1,4 @@
-Repository Init Content
+BPMS 6.1 Process Examples
 =======================
 
-Your project description here.
+Simplified examples for various BPM design patterns.
